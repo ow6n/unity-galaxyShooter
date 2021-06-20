@@ -14,7 +14,7 @@ This project was developed during the course "__[O Guia Definitivo para Desenvol
 
 ## Technologies 
 This project was built with:
-- [Unity](https://assetstore.unity.com/summer-sale?aid=1100liQTS)
+- [Unity](https://assetstore.unity.com?aid=1100liQTS)
  
 ## Contribute
  1. Fork this repository;
